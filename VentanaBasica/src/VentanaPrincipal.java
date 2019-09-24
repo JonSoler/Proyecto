@@ -16,6 +16,7 @@ public class VentanaPrincipal extends JFrame {
 	public static void main(String[] args) {
 		VentanaPrincipal mainWindow = new VentanaPrincipal();
 		mainWindow.setVisible(true);
+		System.out.println("Hola mundoo");
 		
 	}
 
