@@ -8,8 +8,8 @@ public class VentanaPrincipal extends JFrame {
 	private static final long serialVersionUID = 1L;
 
 	public VentanaPrincipal() {
-		setTitle("Mi primera ventana");
-		this.setSize(320,240);
+		setTitle("Ventana 4K");
+		this.setSize(640,480);
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	}
 	
